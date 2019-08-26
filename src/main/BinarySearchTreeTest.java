@@ -1,7 +1,7 @@
 /**
  * @author zhengKe
  * @date 2019-08-19 10:41
- * @desc 11
+ * @desc
  */
 public class BinarySearchTreeTest {
     int data;

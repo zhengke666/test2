@@ -12,6 +12,13 @@ import java.util.Map;
  */
 public class MapTest {
     public static void main(String[] args) {
+        String testStr = "testStr";
+        if (testStr.equals("testStr")) {
+            System.out.println(1111);
+        }
+
+
+
         Map<String, Object> amap = new HashMap<>();
         List<Map<String, Object>> alist = new ArrayList<>();
         for (int i = 0; i < 3; i++) {

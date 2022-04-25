@@ -22,5 +22,6 @@ public class test {
         System.out.println(a);
         6666
         2222333
+            88888
     }
 }

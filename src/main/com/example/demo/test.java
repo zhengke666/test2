@@ -20,6 +20,6 @@ public class test {
         String a = "1,0";
         a =  a.substring(0,a.lastIndexOf(","));
         System.out.println(a);
-        2222
+        6666
     }
 }

@@ -16,7 +16,7 @@ public class test {
         User use1 = user;
         use1 = user2;
         System.out.println(user);*/
-
+123213
         String a = "1,0";
         a =  a.substring(0,a.lastIndexOf(","));
         System.out.println(a);
